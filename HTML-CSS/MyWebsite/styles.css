@@ -1,0 +1,30 @@
+* {
+    font-family : Proxima Nova, sans-serif;
+    background-color: cadetblue;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 75px;
+    margin-top: 0px;
+}
+
+#header-info {
+    text-align: center;
+    padding: 0px;
+    font-size: 25px;
+    transform: translate(0%, -175%);
+}
+
+#weener-logo {
+
+}
+
+#weener-video {
+    transform: translate(-50%, -75%);
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    height: 750px;
+}
